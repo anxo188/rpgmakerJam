@@ -11,12 +11,12 @@ Todos los diálogos del juego estarán en inglés y español.
 - Motor a utilizar RPG Maker en cualquiera de sus versiones
 - Género del juego: Terror
 - Temática específica: Dead Of Winter/Pleno invierno
+![Imagen de referencia](/Docs/Im%C3%A1genes/referencia-para-readme.jpg)
 - Retos bonus:
     - Incluir un muñeco de nieve
     - Incluir huellas en la nieve
     - Incluir una sala con una chimenea encendida
     - En caso de utilizar la versión MZ o MV del motor, crear versión de navegador
-![Imagen de referencia](/Docs/Im%C3%A1genes/referencia-para-readme.jpg)
 
 Para más detalles comprobar la página web de la jam
 ## Miembros del proyecto
@@ -35,12 +35,16 @@ Para más detalles comprobar la página web de la jam
 - [ ] Pulido del juego
 
 ## Recursos útiles
+Puede haber enlaces que lleven a webs en inglés
+
 - Web desde la que descargar versiones MZ,MV y VX Ace del motor (https://igg-games.com/?s=rpg+maker)
 - Tutorial de RPG Maker MV (https://rpgmaker.top/recursos/tutoriales-gratis-mv/)
+- Tutoriales oficiales de RPG Maker VX Ace (https://www.rpgmakerweb.com/tutorials)
+- Tutorial de RPG Maker MZ (https://www.rpgmakerweb.com/blog/youve-bought-mz-now-what)
 
-"------"
+====
 # ENGLISH TRANSCRIPTION
-"------"
+====
 # RPG MakerJam
 Repository to store the source code and assets of a game intended to participate in a game jam(https://itch.io/jam/15th-rpg-maker-horror-game-jam).
 Documentation is intended to be in spanish with a translation to english. 
@@ -78,5 +82,9 @@ For more details check the website of the jam
 - [ ] Bugfixing and final polishing
 
 ## Usefull resources
+It's probably that some of the resources here leads to websites in spanish.
+
 - Website to download versions MZ,MV y VX Ace of the engine (https://igg-games.com/?s=rpg+maker)
 - Tutorial of RPG Maker MV (https://rpgmaker.top/recursos/tutoriales-gratis-mv/)
+- Oficial tutorials of RPG Maker VX Ace (https://www.rpgmakerweb.com/tutorials)
+- Tutorial of RPG Maker MZ (https://www.rpgmakerweb.com/blog/youve-bought-mz-now-what)
