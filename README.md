@@ -5,7 +5,7 @@ Todos los diálogos del juego estarán en inglés y español.
 
 ## Fechas de la Jam
 - Inicio 19 de Noviembre de 2022
-- Fin 19 de Diciembre de 2022 a las 11:59
+- Fin 19 de Diciembre de 2022 a las 11:59 PM
 
 ## Requisitos de la Jam
 - Motor a utilizar RPG Maker en cualquiera de sus versiones
@@ -22,8 +22,8 @@ Para más detalles comprobar la página web de la jam
 ## Miembros del proyecto
 - Adam
 - Alejandro
-- Álvaro
-- Anxo
+- Álvaro (alvarocg-a)
+- Anxo (anxo188)
 - Javier
 - Jerónimo
 - Markel
@@ -42,17 +42,15 @@ Puede haber enlaces que lleven a webs en inglés
 - Tutoriales oficiales de RPG Maker VX Ace (https://www.rpgmakerweb.com/tutorials)
 - Tutorial de RPG Maker MZ (https://www.rpgmakerweb.com/blog/youve-bought-mz-now-what)
 
-====
-# ENGLISH TRANSCRIPTION
-====
-# RPG MakerJam
+
+# ENGLISH TRANSCRIPTION: RPG MakerJam
 Repository to store the source code and assets of a game intended to participate in a game jam(https://itch.io/jam/15th-rpg-maker-horror-game-jam).
 Documentation is intended to be in spanish with a translation to english. 
 All the dialoges of the game will be in both languages, english and spanish.
 
 ## Dates of the jam
 - Starts 19 de Noviembre de 2022
-- Deadline 19 de Diciembre de 2022 a las 11:59
+- Deadline 19 de Diciembre de 2022 at 11:59 PM
 
 ## Requirements of the Jam
 - Engine must be RPG Maker in any of his versions
@@ -69,9 +67,9 @@ For more details check the website of the jam
 ## Members of the project
 - Adam
 - Alejandro
-- Álvaro
-- Anxo
-- Javier
+- Álvaro (alvarocg-a)
+- Anxo (anxo188)
+- Javier (Jagarhe)
 - Jerónimo
 - Markel
 
