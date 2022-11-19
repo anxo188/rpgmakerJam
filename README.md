@@ -58,12 +58,12 @@ All the dialoges of the game will be in both languages, english and spanish.
 - Engine must be RPG Maker in any of his versions
 - Genre of the game: Terror
 - Specific theme: Dead Of Winter
+![Image of reference](/Docs/Im%C3%A1genes/referencia-para-readme.jpg)
 - Bonus challenges:
     - Include a snowman
     - Include tracks in the snow
     - Include a cozy fireplaze
     - In case of using the MZ or MV of the engine, build a browser version
-![Image of reference](/Docs/Im%C3%A1genes/referencia-para-readme.jpg)
 
 For more details check the website of the jam
 ## Members of the project
