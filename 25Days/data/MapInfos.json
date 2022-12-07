@@ -1,0 +1,9 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Main_Hall","order":1,"parentId":0,"scrollX":1518.6666666666667,"scrollY":826},
+{"id":2,"expanded":false,"name":"Basic_Room","order":2,"parentId":0,"scrollX":0,"scrollY":0},
+{"id":3,"expanded":false,"name":"Basic_Bloody_Room","order":3,"parentId":0,"scrollX":662.6666666666666,"scrollY":817.3333333333334},
+{"id":4,"expanded":false,"name":"Generic_Hallway","order":4,"parentId":0,"scrollX":662.6666666666666,"scrollY":817.3333333333334},
+{"id":5,"expanded":false,"name":"Backyard","order":5,"parentId":0,"scrollX":662.6666666666666,"scrollY":817.3333333333334},
+{"id":6,"expanded":false,"name":"Kitchen","order":6,"parentId":0,"scrollX":662.6666666666666,"scrollY":817.3333333333334}
+]
